@@ -2,6 +2,7 @@ package classes;
 
 public class Admin {
 
+	// bingo bango
 	private int id;
 	private String name;
 	private String username;
